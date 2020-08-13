@@ -13,7 +13,8 @@ body {
 
 h1 {
   text-align: center;
-  font-size: 54px;
+  font-size: 65px;
+  font-weight: bold;
 }
 
 .pokedex {
@@ -78,7 +79,7 @@ h1 {
 }
 
 .poison {
-  background-color: #98d7a5;
+  background-color: #c4add6;
 }
 
 .bug {
@@ -99,6 +100,10 @@ h1 {
 
 .fighting {
   background-color: #E6E0D4;
+}
+
+.ghost {
+  background-color: #ebc2c2;
 }
 
 .normal {
